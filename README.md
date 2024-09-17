@@ -18,5 +18,5 @@ CAFNet applies circular attention mechanisms to enhance the segmentation of medi
 - Run `train.py`. You may need to adjust some parameters based on your specific settings.
 
 ### 3. Testing
-- Run `test_isic.py` with the following command:
-`python test_isic.py --ckpt_path='path_to_your_check_point.pth`
+- Run `test.py` with the following command:
+`python test.py --ckpt_path='path_to_your_check_point.pth`
